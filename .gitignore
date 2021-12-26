@@ -1,0 +1,8 @@
+node_modules
+*.local
+.idea
+/pycache/*
+.env
+.htaccess
+dist
+api
